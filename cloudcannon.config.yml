@@ -1,0 +1,16 @@
+# CloudCannon configuration — Parade Standard
+# Editable text regions are marked in the HTML with class="editable".
+# Images are marked with data-editable="image" and live in /images.
+
+_editables:
+  content:
+    bold: true
+    italic: true
+    underline: true
+    link: true
+    removeformat: true
+    undo: true
+    redo: true
+
+paths:
+  uploads: images
